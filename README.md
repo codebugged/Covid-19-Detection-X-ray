@@ -1,7 +1,7 @@
 # Covid-19-Detection-X-ray
 Detecting COVID-19 using AI
 
-## Hey!
+## Hey!!
 Prevention by severing the chain is the immediate solution.
 
 Truly said, the novel corona virus is creating devastation on mankind and until today none of cure apart is reported concrete.
